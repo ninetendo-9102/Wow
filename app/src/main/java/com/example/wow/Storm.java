@@ -1,5 +1,5 @@
 package com.example.wow;
 
-public class Storm {
+public class Storm extends StageObject{
 
 }
